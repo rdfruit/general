@@ -49,6 +49,8 @@ Thus the overall goal of this task force is to create a common specification for
   - Web based User Interface Generation 
   - Layout / Templating
   - Human RDF Interaction or Human Graph Interaction
+  - Semantics aware User Interfaces
+  - Data aware UIs
 
 ## Direction
   - Design Pattern / Library / Ontology
