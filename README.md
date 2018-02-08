@@ -32,6 +32,7 @@ Thus the overall goal of this task force is to create a common specification for
 * [paper](https://exascale.info/assets/pdf/uduvudu.pdf)
 * [website](http://uduvudu.org)
 #### ld-r
+* [papers](https://research.ld-r.org)
 * [website](http://ld-r.org/)
 
 ### papers
