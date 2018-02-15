@@ -11,14 +11,17 @@ Thus the overall goal of this task force is to create a common specification for
 
 ## Goals
 - Leverage the RDF data structure
-- Clear separation of roles regarding definitions
-- Enabels an iterative development process
+- Clear separation of roles regarding definitions (@fkleedorfer: not sure what that means - would appreciate more detailed explananation)
+- Enables an iterative development process
 - Highly reusable outcome (the transformations can be used in other contexts)
 - Handle language transparently
 - Zero-input fallback
   - If there are no transformations defined a first naive rendering is provided.
   - The transformation still need to work on RDF data structures provide without an explicit ontology.
 - Never show URIs
+- Provide edit as well as display functionality
+- Allow different GUI rendering results for the same underlying data, depending on context
+
 
 
 
