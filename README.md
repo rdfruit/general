@@ -48,13 +48,23 @@ As this is WIP, We'll clean this text up as we go along. However, right now, we 
 * [papers](http://research.ld-r.org)
 * [website](http://ld-r.org/)
 
+#### Tabulator
+* [paper](https://pdfs.semanticscholar.org/fc88/f4d34e2a7e43fe8ffdb22dfcc2193a912c23.pdf?_ga=2.159102202.1111079707.1518835681-2059549870.1518835681)
+* [paper](http://events.linkeddata.org/ldow2008/papers/11-berners-lee-hollenbach-tabulator-redux.pdf)
+
+#### solid ui
+* https://github.com/linkeddata/mashlib
+* https://github.com/linkeddata/solid-app-set
+* https://github.com/linkeddata/solid-ui
+* https://github.com/linkeddata/solid-ui/blob/master/src/widgets/index.js#L911
+
 ### papers
 * [Argo](http://ceur-ws.org/Vol-135/paper8.pdf)
 * [Customised Visualisations of Linked Open Data](http://ceur-ws.org/Vol-1947/paper03.pdf)
 
 ### ontologies
 * [shacl](https://www.w3.org/TR/shacl/)
-
+* [ui](http://www.w3.org/ns/ui#)
 
 ## Name of TF?
   - Human readeable RDF
@@ -72,3 +82,9 @@ As this is WIP, We'll clean this text up as we go along. However, right now, we 
 
 ## Use Cases
 [Adaptive GUI for Web of Needs](usecase_won.md)
+
+
+Thanks!
+timbl
+
+
