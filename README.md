@@ -11,7 +11,10 @@ Thus the overall goal of this task force is to create a common specification for
 
 ## Goals
 - Leverage the RDF data structure
-- Clear separation of roles regarding definitions (@fkleedorfer: not sure what that means - would appreciate more detailed explananation)
+- Clear separation of roles regarding definitions
+  - Data Expert -> Selection of Data
+  - UX Specialist -> Creation of UI Concept (Mapping of the Graph)
+  - Designer -> Design of the UI
 - Enables an iterative development process
 - Highly reusable outcome (the transformations can be used in other contexts)
 - Handle language transparently
