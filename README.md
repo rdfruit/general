@@ -84,7 +84,4 @@ As this is WIP, We'll clean this text up as we go along. However, right now, we 
 [Adaptive GUI for Web of Needs](usecase_won.md)
 
 
-Thanks!
-timbl
-
 
