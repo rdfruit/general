@@ -28,5 +28,10 @@ Render a GUI from a priori unknown RDF, ideally in a way that fits the user's co
 Example: Show that the other user has confirmed my suggestion for an appointment in 3 minutes at location A
 
 
+## Requirements for the UI Layer
+### 1. Discovery of UI components
+In WoN, you can post and find anything. The only thing you'll know about postings or messages a priori is that they are RDF datasets. They will have a few standard triples, but these don't normally interest users. Consequently, it is not feasible to prepare a UI library for authoring every conceivable WoN posting. Rather, we'd like a discovery system that finds the right UI component on the fly. For that to be possible, the components need to be adaptive in terms of visual style, language, context (whatever that is exactly - it is a thing). Moreover, the components must not pose a security risk in any way.
 
-(TBC)
+### 2. Generic RDF authoring capabilities
+For situations in which no GUI components can be found, generic tools are needed for content authoring. The requirements for those components are the same as in 1. In addition to that, the generic tools should allow non-RDF savvy Web users to author simple RDF structures.
+
