@@ -1,3 +1,5 @@
+ [![Gitter](https://badges.gitter.im/dev-1pr/1pr.svg)](https://gitter.im/rdfruit/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+
 # RDF Representation in User Interfaces Team
 
 **This is WIP!**
